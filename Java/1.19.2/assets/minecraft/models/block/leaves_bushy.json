@@ -1,0 +1,54 @@
+{   "parent": "block/block",
+    "textures": {
+        "particle": "#all"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "down" },
+                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "up" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "north" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "south" },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "west" },
+                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#all", "tintindex": 0, "cullface": "east" }
+            }
+        },
+      {
+        "from": [ 4, -3, -2 ],
+        "to": [ 4, 20, 18 ],
+        "shade": true,
+        "faces": {
+          "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy", "tintindex": 1},
+          "east": { "uv": [ 16, 0, 0, 16 ], "texture": "#bushy", "tintindex": 1}
+        }
+      },
+      {
+        "from": [ -2, -3, 4 ],
+        "to": [ 18, 20, 4 ],
+        "shade": true,
+        "faces": {
+          "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy", "tintindex": 1},
+          "south": { "uv": [ 16, 0, 0, 16 ], "texture": "#bushy", "tintindex": 1}
+        }
+      },
+      {
+        "from": [ 12, -3, -2 ],
+        "to": [ 12, 20, 18 ],
+        "shade": true,
+        "faces": {
+          "west": { "uv": [ 16, 0, 0, 16 ], "texture": "#bushy", "tintindex": 1},
+          "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy", "tintindex": 1}
+        }
+      },
+      {
+        "from": [ -2, -3, 12 ],
+        "to": [ 18, 20, 12 ],
+        "shade": true,
+        "faces": {
+          "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#bushy", "tintindex": 1},
+          "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#bushy", "tintindex": 1}
+        }
+      }
+    ]
+}
