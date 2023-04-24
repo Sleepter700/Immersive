@@ -1,0 +1,11 @@
+{  
+"block.minecraft.polished_granite":"Ladrillos de Granito",
+"block.minecraft.polished_andesite":"Ladrillos de Andesita",
+"block.minecraft.polished_diorite":"Ladrillos de Diorita",
+"block.minecraft.polished_diorite_stairs":"Escaleras de Ladrillos de Diorita",
+"block.minecraft.polished_andesite_stairs":"Escaleras de Ladrillos de Andesite",
+"block.minecraft.polished_granite_stairs":"Escaleras de Ladrillos de Granito",
+"block.minecraft.polished_diorite_slab":"Losa de Ladrillo de Diorita",
+"block.minecraft.polished_andesite_slab":"Losa de Ladrillo de Andesita",
+"block.minecraft.polished_granite_slab":"Losa de Ladrillo de Granito"
+}
