@@ -1,0 +1,25 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "Immersive_UI",
+      "description": "Mejores Interfaces by §6Sleepter700",
+      "uuid": "d18beb16-0275-4cc7-a90d-41a0948a7c56",
+      "version": [1, 0, 0],
+      "min_engine_version": [ 1, 19, 70 ]
+    },
+    "modules": [
+      {
+        "type": "resources",
+        "description": "UI_Immersive by §6Sleepter700",
+        "uuid": "341e2918-a54e-4583-90a3-94fac9d8d472",
+        "version": [1, 0, 0]
+      }
+    ],
+      "subpacks" :[
+        {
+          "folder_name":"Light",
+          "name":"\n§l§0Vanilla Colours",
+          "memory_tier":1
+        }
+      ]
+  }
